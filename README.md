@@ -1,5 +1,28 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+React Todo Web App based on Tutorial from Brad Traversy which covered topics such as:
+
+Arrow Functions
+Axios
+Component State
+Component Styling
+ES7 React/Redux/GraphQL VS Code Extension
+Google Chrome Developer React Extension
+Higher Order Array Methods (Map, Filter)
+HTTP Methods: GET/POST
+Imports
+JSX Syntax
+Life Cycle Methods
+Promises 
+Props
+ProtoType Require's
+React Fragments
+React Routing
+React Virtual DOM
+UUID
+
+The full tutorial can be found at: https://www.youtube.com/watch?v=sBws8MSXN7A
+
 ## Available Scripts
 
 In the project directory, you can run:
